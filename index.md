@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## My profile
 
-You can use the [editor on GitHub](https://github.com/juheepark215/juheepark215.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Engaging and motivated second year BCom student who is passionate about learning while being highly adaptable to various environments. A disciplined team player with leadership skills gained through continuous practices of both written and verbal communication in English, Korean, and French. Knowledgeable in programming languages such as Java, C, and C++ along with software programs including Microsoft Office, Adobe Premiere, Inkscape, and Stata.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Find me on LinkedIn! I would love to [connect](https://www.linkedin.com/in/juheepark/) with you! 
 
-### Markdown
+### Some of my experiences...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some of my most recent work/volunteer experiences!
 
 ```markdown
 Syntax highlighted code block

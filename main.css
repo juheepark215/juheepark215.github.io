@@ -1,0 +1,141 @@
+body, html{
+	font-family: Century Gothic, sans-serif;
+	height: 100%;
+	margin:0;
+	text-align: center;
+	width: 100%;
+	height:100%;
+	background-color: White;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	position: fixed;
+	overflow: hidden;
+	margin-top: -49%;
+	z-index: 1;
+	/*width:100%;
+	height:100%;*/
+}
+
+li{
+	float: left;
+}
+
+li a{
+	display: block;
+	color: #000000;
+	padding: 10px 16px;
+	text-decoration: none;
+	text-align: center;
+}
+
+li a:hover:not(.active){
+	color:Gray;
+}
+
+.active{
+	color:Red;
+}
+
+h1{
+	font-size: 56px;
+}
+
+h2{
+	color: DeepPink;
+	font-size: 25px;
+	text-transform:uppercase;
+	letter-spacing:5px;
+	
+}
+
+.me{
+	/*
+	background-image: url('http://www.vancitybuzz.com/wp-content/uploads/2014/01/hastings-better.jpg');
+	background-position: center top;
+	background-size: cover;
+	*/
+	padding: 10px 10px;
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: White;
+	/*text-shadow: 0 5px Aquamarine;*/
+	/*font-family: Century Gothic, sans-serif;*/
+}
+
+img.image{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+img.face{
+	height:300px;
+	border-radius: 50%;
+}
+
+p{
+	color: black;
+	/*text-shadow: 0 0px;*/
+	font-size: 16px;
+}
+
+.pro{
+	padding: 10px 10px;
+}
+
+.footer{
+	color: DarkSlateGray;
+	font-size: 12px;
+	position: relative;
+	top:100%;
+	width:100%;
+	left:0;
+}
+
+.bgimg1, .bgimg2, .bgimg3{
+	/*Create the parallex scrolling effect*/
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bgimg1{
+	background-image: url('https://cdn.shopify.com/s/files/1/0613/3489/products/BH_SpecialtyCards_BeBright_ForTheShop_02_1024x1024.jpg?v=1456245014');
+	height:100%;
+	opacity:0.75;
+}
+
+.bgimg2{
+	background-image: url('http://wallpapercave.com/wp/wp1824297.jpg');
+	height:100%;
+	opacity:0.6;
+}
+
+.bgimg3{
+	background-image:url('http://www.pcommops.com/uploads/1/2/0/9/12093719/62836_orig.jpeg');
+	height:120%;
+	opacity: 0.6;
+	background-repeat:no-repeat;
+}
+
+.caption{
+	position:absolute;
+	left:0;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	color:White;
+	
+}
+
+.caption span.border{
+	font-size: 30px;
+	letter-spacing:7px;
+	background-color: LightPink;
+	color: DarkSlateGray;
+	padding:16px;
+}
